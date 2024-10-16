@@ -1,0 +1,15 @@
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    margin-bottom: 100px;
+    z-index: 999;
+    left: 0;
+    top: 0;
+}
+.carousel{
+    margin-top: 50px;
+}
+.form123{
+    margin-top: 59px;
+}
